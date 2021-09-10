@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "tap.md"}
   
 produto:
-  - {file: "arquitetura.md"}
+  - {title: Arquitetura, url: "https://github.com/SwampTG/SwampTG.github.io/blob/master/_posts/2021-09-10-arquitetura.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/fga-eps-mds/2021-1-hospitalar"}
