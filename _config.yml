@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "tap.md"}
   
 produto:
-  - {file: "2021-09-10-arquitetura.md", title: Arquitetura}
+  - {file: "Arquitetura.md", title: Arquitetura}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/fga-eps-mds/2021-1-hospitalar"}
