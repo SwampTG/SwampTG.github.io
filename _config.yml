@@ -18,14 +18,9 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {file: "README.md"}
-  
-produto:
-  - {file: "Arquitetura.md", title: Arquitetura}
-  - {file: "tap.md", title: tap}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/fga-eps-mds/2021-1-hospitalar"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
